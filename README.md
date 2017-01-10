@@ -19,12 +19,12 @@ In order to enhance the relevance of the part of the image for training, we crop
 
 Here is an example of the original training image and a correponding cropped one:
 
-[image1]
+![alt text][image1]
 
-[image2]
+![alt text][image2]
 
 [image1]: road1.png
-[image2]: road2.png
+[image2]: road1-cropped.png
 
 
 
